@@ -1,1 +1,3 @@
-# charity-hub
+PROBLEM STATEMENT: In Bangladesh, there are thousands of NGOs who work for child in need. To carry out their activities these organizations rely on sponsorships, volunteers and support from different sectors. Although there are people willingly want to help these under-privileged children, many of them can’t decide how to help these children, what NGO they should choose to sponsor, how they can communicate with them. It’s quite a bit of work to go each NGO website and collect information. 
+
+SOLUTION: We are proposing a mobile app which can work as a portal for NGOs. Prominent NGOs of our country will be enlisted in the app and those who wants to sponsor can decide their preferred NGO visiting respective profile of the NGOs in the app. The core idea is to bring the NGOs under one roof so that a bridge establishes between the sponsor and the NGOs. Using the app donators can donate toys, books, cloths and can track whom they are giving these away.
